@@ -1,4 +1,8 @@
-# OpenClaw Daily Report Skill
+# 📰 OpenClaw Daily Report
+
+[![GitHub repo](https://img.shields.io/github/v/release/ivwslenkin233-lang/openclaw-daily-report?include_prereleases)](https://github.com/ivwslenkin233-lang/openclaw-daily-report)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-skill-blue)](https://openclaw.ai)
 
 > 智能日报生成器 - 基于价值导向的内容筛选系统
 
@@ -125,6 +129,9 @@ openclaw daily-report run --max 30 --max-per-blog 2
 
 ## 📊 输出示例
 
+<!-- 示例截图占位符 -->
+<!-- 实际生成的 Markdown 报告如下所示： -->
+
 ```markdown
 # 价值日报 · 2026-03-04
 
@@ -198,11 +205,20 @@ skills/daily-report/
 
 ## 📄 License
 
-MIT
+[MIT](LICENSE) © 2025 OpenClaw Daily Report Contributors
 
 ## 🙏 致谢
 
 感谢所有订阅源的作者和编辑们。
+
+## 🤝 Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
+
+## 📬 Support
+
+- Issues: https://github.com/ivwslenkin233-lang/openclaw-daily-report/issues
+- Discussions: https://github.com/ivwslenkin233-lang/openclaw-daily-report/discussions
 
 ---
 
